@@ -1,3 +1,6 @@
+//Write a Java Program to copy an element in an array from other array.
+
+
 package Arrays;
 import java.util.Arrays;
 import java.util.Scanner;
